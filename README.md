@@ -1,4 +1,4 @@
-Dizifin.com: Yabancı Dizi İzleme Platformu
+[Başlığa sahip bir yazı içi linkiyim](https:/dizifin.com "Dizifin.com"): Yabancı Dizi İzleme Platformu
 
 Dizifin.com, yabancı dizi tutkunları için öncü bir izleme platformudur. Geniş içerik arşivi ve kullanıcı dostu arayüzüyle, en yeni ve popüler yabancı dizileri HD kalitesinde izleme imkanı sunar. Her gün güncellenen bölümler ve sürekli olarak eklenen yeni içerikler ile izleyicilere kesintisiz bir dizi deneyimi yaşatmayı hedefliyoruz.
 
