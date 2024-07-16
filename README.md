@@ -1,5 +1,7 @@
 [Dizifin.com](https:/dizifin.com/): Yabancı Dizi İzleme Platformu
 
+[link burada](http://google.fr "google")
+
 Dizifin.com, [yabancı dizi](https:/dizifin.com/) tutkunları için öncü bir izleme platformudur. Geniş içerik arşivi ve kullanıcı dostu arayüzüyle, en yeni ve popüler yabancı dizileri HD kalitesinde izleme imkanı sunar. Her gün güncellenen bölümler ve sürekli olarak eklenen yeni içerikler ile izleyicilere kesintisiz bir dizi deneyimi yaşatmayı hedefliyoruz.
 
 Öne Çıkan Özelliklerimiz:
